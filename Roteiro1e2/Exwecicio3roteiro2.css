@@ -1,0 +1,27 @@
+body {
+    background-color: lightgray;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: blue;
+}
+
+.perfil {
+    width: 400px;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid black;
+}
+
+.tecnologia {
+    color: blue;
+}
+
+.contato {
+    color: black;
+}
+
+.contato:hover {
+    color: red;
+}
