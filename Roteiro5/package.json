@@ -1,0 +1,12 @@
+{
+  "name": "roteiro5",
+  "version": "1.0.0",
+  "description": "Roteiro de aula 05 - Programação Web I",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
